@@ -5,7 +5,7 @@
         "children":  
         [  
             {"command": "color_pick", "caption":"插入颜色"},  
-            {"caption":"菜单2"}
+            {"command":"jstest", "caption":"插入文字HelloWorld"}
         ]  
     }  
     ] 
