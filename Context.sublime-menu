@@ -7,5 +7,15 @@
             {"command": "color_pick", "caption":"插入颜色"},  
             {"command":"jstest", "caption":"插入文字HelloWorld"}
         ]  
-    }  
+    }, 
+    {
+        "id":"edit",
+        "caption":"编辑",
+        "children":
+        [
+            {"command":"run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"}, "caption":"删除行"},
+            {"command":"run_macro_file", "args": {"file": "Packages/Default/Add Line Before.sublime-macro"}, "caption":"上插一行"},
+            {"command":"run_macro_file", "args": {"file": "Packages/Default/Add Line.sublime-macro"}, "caption":"下插一行"}
+        ]
+    }
     ] 
