@@ -1,4 +1,5 @@
 SimpleSublime
 =============
 
-Make it easy to use Sublime
+Make it easier to use Sublime
+
