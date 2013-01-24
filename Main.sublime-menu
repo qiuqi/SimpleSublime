@@ -1,0 +1,10 @@
+    [  
+    {  
+        "id": "edit",  
+        "children":  
+        [  
+            {"id": "xxqq"},  
+            { "command": "中文菜单" }  
+        ]  
+    }  
+    ]  

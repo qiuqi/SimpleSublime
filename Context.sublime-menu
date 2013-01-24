@@ -1,0 +1,11 @@
+    [  
+    {  
+        "id": "custom",  
+        "caption": "加速",
+        "children":  
+        [  
+            {"command": "color_pick", "caption":"插入颜色"},  
+            {"caption":"菜单2"}
+        ]  
+    }  
+    ] 
